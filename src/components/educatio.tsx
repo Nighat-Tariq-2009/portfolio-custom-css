@@ -4,7 +4,7 @@ export default function Education(){
         <main className="edu-main">
            <div className="edu-text">
            <h1 className="education-h1" >EDUCATION</h1>
-            <p>"My educational journey has provided me with a strong foundation in science, equipping me with analytical and problem-solving skills that I apply in my development projects. Here’s a summary of my academic background:"</p>
+            <p>&quot;My educational journey has provided me with a strong foundation in science, equipping me with analytical and problem-solving skills that I apply in my development projects. Here is a summary of my academic background&quot;.</p>
            </div>
            <div className="box-con-edu">
             <div>

@@ -19,7 +19,7 @@ function About(){
                 {/* right */}
                 <div className="hero-content">
                     <h1 className="hero-title">About us </h1>
-                    <p className="hero-des"> I am learning the essentials of HTML, CSS, and JavaScript. I’m starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project, I'm gaining confidence in my coding skills and looking forward to exploring more advanced topics like frameworks and APIs the essentials of HTML, CSS, and JavaScript. I’m starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project.</p>
+                    <p className="hero-des"> I am learning the essentials of HTML, CSS, and JavaScript. I am starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project, I am gaining confidence in my coding skills and looking forward to exploring more advanced topics like frameworks and APIs the essentials of HTML, CSS, and JavaScript. I am starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project.</p>
                    
                 </div>
                 
