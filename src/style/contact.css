@@ -1,0 +1,88 @@
+
+
+body{
+    max-width: 1250px;
+    margin: auto;
+    
+}
+
+.contact-main{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.5);
+    /* box-shadow: 1px 4px 10px grey; */
+  
+}
+.form-container{
+    width: 60%;
+    background-color: white;
+    height: 350px;
+    border-radius: 10px;
+    padding: 20px;
+
+   
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(218, 213, 213);
+
+}
+.msg{
+    padding-bottom:100px ;
+}
+.btn-sub{
+    padding: 15px 20px;
+    background-color:blue;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    margin-top: 15px;
+     margin-left: 5px;
+}
+.con-title{
+    padding-left: 5px;
+}
+
+.bottom-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.con-icon1{
+    font-size: 50px;
+    color: red;
+}
+.con-icon2{
+    font-size: 50px;
+    color:blue;
+}
+.con-icon3{
+    font-size: 50px;
+    color: purple;
+}
+.con-icon4{
+    font-size: 50px;
+    color:green;
+}
+@media (max-width:750px) {
+    .form-container{
+        width: 90%;
+        margin-bottom: 350px;
+    }
+    
+}
